@@ -7,7 +7,7 @@
 <img width="818" alt="li4" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/08e6e5d8-ce98-4bf6-90f3-5853c3854f40">
 * Filter only masked services
 <img width="820" alt="li5" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/06b275ca-81fc-462d-931c-1e28216c8b2d">
-*  Now check the services and start it
+* Now check the services and start it
 <img width="824" alt="li6" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/3d208617-172a-4eda-9130-3d0132c8f868">
 
 * Enable services 
