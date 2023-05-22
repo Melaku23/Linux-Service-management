@@ -1,10 +1,9 @@
 # Linux-Service-management
-## - list services that are running in our system and a plus sign means it is running
-a negative sign means it is not running now.
+* list services that are running in our system and a plus sign means it is running a negative sign means it is not running now.
 <img width="818" alt="li1" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/0d7e786c-635e-4680-ae51-01ab4403759a">
 ## Two comands to check Apache web server installed  running. The first command is service and the other one is systemctl command both have same output.
 <img width="818" alt="li2" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/74995d12-0c73-45a2-bd57-0a6fb702c085">
-##  start, stop, mask and unmask services
+## start, stop, mask and unmask services
 <img width="818" alt="li4" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/08e6e5d8-ce98-4bf6-90f3-5853c3854f40">
 ##  Filter only masked services
 <img width="820" alt="li5" src="https://github.com/Melaku23/Linux-Service-management/assets/24359349/06b275ca-81fc-462d-931c-1e28216c8b2d">
